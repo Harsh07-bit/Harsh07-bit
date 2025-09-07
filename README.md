@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Harshh
 
 I'm a **Data Analyst** passionate about turning raw data into actionable insights.  
 I love working with **SQL, Python, Power BI, and Excel** to solve real-world business problems and automate workflows.

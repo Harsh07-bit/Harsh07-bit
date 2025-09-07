@@ -2,7 +2,7 @@
 - 👀 I’m interested in Analyst and Scientist roles.
 - 🌱 I’m currently learning Technical and Soft Skills to become a Data Analyst
 - 💞️ I’m looking to collaborate on open source project on Data Analysis to gain valuable experience.
-- 📫 How to reach me? You can reachout to me on harshworks.247@gmail.com
+- 📫 How to reach me? You can reachout to me on harshs2403@gmail.com
 - 😄 Pronouns: Harsh
 - ⚡ Fun fact: ...
 
